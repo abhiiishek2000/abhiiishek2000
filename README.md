@@ -1,15 +1,15 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm Aditya</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm Abhishek</h1>
 <h3 align="center">I am Android Developer.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as **Frelancer**
+- 🔭 I’m currently learning  **Data Structure Using Java**
 
 
-- 📫 How to reach me : **[Instagram](https://www.instagram.com/ig_abhiiishek)** **[Telegram](https://t.me/tt_abhiiishek)** **ak663904@gmail.com**
+- 📫 How to reach me : **[Instagram](https://www.instagram.com/ig_abhiiishek)** **[Facebook](https://www.facebook.com/avi.razz.509/)** **ak663904@gmail.com**
 
 ## 🚀 Languages and Tools:
 
