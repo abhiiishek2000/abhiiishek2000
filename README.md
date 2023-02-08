@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning  **Data Structure Using Java**
+- 🔭 I’m **Flutter Developer.**
 
 
 - 📫 How to reach me : **[Instagram](https://www.instagram.com/ig_abhiiishek)** **[Facebook](https://www.facebook.com/avi.razz.509/)** **ak663904@gmail.com**
