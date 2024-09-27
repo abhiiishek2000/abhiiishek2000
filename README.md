@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm Abhishek</h1>
-<h3 align="center">I am Flutter Developer.</h3>
+<h3 align="center">I am Mobile Applicaton Developer.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning **Node.js**
+- 🔭 I’m currently working at **[PlayTento](https://playtento.com/)**
 
 
 - 📫 How to reach me : **[Instagram](https://www.instagram.com/ig_abhiiishek)** **[Facebook](https://www.facebook.com/avi.razz.509/)** **ak663904@gmail.com**
@@ -17,7 +17,8 @@
 
 <p align="left"> 
     <a href="https://www.flutter.dev" target="_blank"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/> </a>
-    <a href="https:/www.flutter.dev" target="_blank"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"/> </a>
+<a href="https://www.android.dev" target="_blank"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin"/> </a>
+<a href="https:/www.flutter.dev" target="_blank"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"/> </a>
     <a href="https://www.android.com" target="_blank"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/> </a>
         <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a style="padding-right:8px;" href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/laravel.png"/> </a> 
@@ -25,7 +26,6 @@
   
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
 <p align="center">
@@ -46,7 +46,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/abhiiishek2000/github-readme-activity-graph"><img alt="Aditya Chaudhary's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhiiishek2000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 <br/>
 <br/>
