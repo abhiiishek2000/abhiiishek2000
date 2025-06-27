@@ -7,8 +7,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at **[PlayTento](https://playtento.com/)**
-- 🌱 I’m always learning and exploring new technologies.
+- 🔭 I'm currently working at **[SSTPath](https://sstpath.com/)**
+- 🌱 I'm always learning and exploring new technologies.
 - 🎯 Goal: To make the world a better place through innovative mobile applications.
 - 📫 How to reach me: **[Instagram](https://www.instagram.com/ig_abhiiishek)** | **[Facebook](https://www.facebook.com/avi.razz.509/)** | **ak663904@gmail.com**
 
@@ -24,6 +24,37 @@
     <a href="https://firebase.google.com/" target="_blank"><img height="40" src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/></a>
     <a href="https://python.com/" target="_blank"><img height="40" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></a>
 </p>
+
+---
+
+## 📦 Published Flutter Packages
+
+<p align="center">
+    <a href="https://pub.dev/packages/widget_capture_share" target="_blank">
+        <img src="https://img.shields.io/pub/v/widget_capture_share.svg?style=for-the-badge&logo=dart&logoColor=white&color=blue" alt="widget_capture_share"/>
+    </a>
+    <a href="https://pub.dev/packages/flutter_app_loading_indicator" target="_blank">
+        <img src="https://img.shields.io/pub/v/flutter_app_loading_indicator.svg?style=for-the-badge&logo=dart&logoColor=white&color=blue" alt="flutter_app_loading_indicator"/>
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://pub.dev/packages/find_the_word" target="_blank">
+        <img src="https://img.shields.io/pub/v/find_the_word.svg?style=for-the-badge&logo=dart&logoColor=white&color=blue" alt="find_the_word"/>
+    </a>
+    <a href="https://pub.dev/packages/dot_bottom_nav" target="_blank">
+        <img src="https://img.shields.io/pub/v/dot_bottom_nav.svg?style=for-the-badge&logo=dart&logoColor=white&color=blue" alt="dot_bottom_nav"/>
+    </a>
+</p>
+
+### 📋 Package Details
+
+| Package | Description |
+|---------|-------------|
+| **[widget_capture_share](https://pub.dev/packages/widget_capture_share)** | Easy widget capturing and sharing functionality |
+| **[flutter_app_loading_indicator](https://pub.dev/packages/flutter_app_loading_indicator)** | Beautiful and customizable loading indicators |
+| **[find_the_word](https://pub.dev/packages/find_the_word)** | Word finding game package for Flutter apps |
+| **[dot_bottom_nav](https://pub.dev/packages/dot_bottom_nav)** | Stylish dot-based bottom navigation bar |
 
 ---
 
@@ -45,13 +76,14 @@
 ## 🌟 Projects
 
 ### 📱 Featured Projects
-1. **[Tento](#)**: A real money gaming (RMG) app where users can play games, earn real cash, and withdraw to their bank accounts.
-2. **[Workerlly-Provider](#)**: A service app that allows users to rent workers like electricians, AC technicians, plumbers, etc., at affordable prices.
-3. **[Workerlly-Seeker](#)**: A companion service app for users seeking workers for various tasks.
+1. **[Workerlly-Provider](https://play.google.com/store/apps/details?id=com.workerlly.workerlly_provider)**: A service app that allows users to rent workers like electricians, AC technicians, plumbers, etc., at affordable prices. *(1k+ downloads)*
+2. **[Workerlly-Seeker](https://play.google.com/store/apps/details?id=com.workerlly.work_seeker)**: A companion service app for users seeking workers for various tasks. *(500+ downloads)*
+3. **[Tento](#)**: A real money gaming (RMG) app where users can play games, earn real cash, and withdraw to their bank accounts.
 
 ### 🎨 Other Projects
 4. **[ShagunPe](#)**: A digital gifting app with QR code scanning for easy money transfer.
-5. **[SpotifySave](#)**: A Python web app tool to download tracks, playlists, and albums using Spotify URLs.
+5. **[SpotifySave](https://spotifysave.com/)**: A Python web app tool to download tracks, playlists, and albums using Spotify URLs. *(5k+ monthly users)*
+6. **[BillFlowPro](https://billflowpro.com/)**: Professional invoice generator for freelancers, small businesses, and growing enterprises with full analytics dashboard.
 
 ---
 
