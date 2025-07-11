@@ -10,7 +10,7 @@
 - 🔭 I'm currently working at **[SSTPath](https://sstpath.com/)**
 - 🌱 I'm always learning and exploring new technologies.
 - 🎯 Goal: To make the world a better place through innovative mobile applications.
-- 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/abhiiishek2000)** | **ak663904@gmail.com**
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/abhiiishek2000)** | **ak663904@gmail.com**
 
 ---
 
