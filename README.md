@@ -76,8 +76,8 @@
 ## 🌟 Projects
 
 ### 📱 Featured Projects
-1. **[Workerlly-Provider](https://play.google.com/store/apps/details?id=com.workerlly.workerlly_provider)**: A service app that allows users to rent workers like electricians, AC technicians, plumbers, etc., at affordable prices. *(1k+ downloads)*
-2. **[Workerlly-Seeker](https://play.google.com/store/apps/details?id=com.workerlly.work_seeker)**: A companion service app for users seeking workers for various tasks. *(500+ downloads)*
+1. **[Workerlly-Provider](https://play.google.com/store/apps/details?id=com.workerlly.workerlly_provider)**: A service app that allows users to rent workers like electricians, AC technicians, plumbers, etc., at affordable prices. *(10k+ downloads)*
+2. **[Workerlly-Seeker](https://play.google.com/store/apps/details?id=com.workerlly.work_seeker)**: A companion service app for users seeking workers for various tasks. *(1k+ downloads)*
 3. **[Tento](#)**: A real money gaming (RMG) app where users can play games, earn real cash, and withdraw to their bank accounts.
 
 ### 🎨 Other Projects
