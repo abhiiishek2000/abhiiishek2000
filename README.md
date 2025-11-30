@@ -82,7 +82,7 @@
 
 ### 🎨 Other Projects
 4. **[ShagunPe](#)**: A digital gifting app with QR code scanning for easy money transfer.
-5. **[SpotifySave](https://spotifysave.com/)**: A Python web app tool to download tracks, playlists, and albums using Spotify URLs. *(10k+ monthly users and $20MRR Adsense ads)*
+5. **[SpotifySave](https://spotifysave.com/)**: A Python web app tool to download tracks, playlists, and albums using Spotify URLs. *(20k+ monthly users and $85MRR Adsense ads)*
 6. **[BillFlowPro](https://billflowpro.com/)**: Professional invoice generator for freelancers, small businesses, and growing enterprises with full analytics dashboard.
 
 ---
